@@ -1,0 +1,1 @@
+# s3-athena-lambda-partitioner
