@@ -1,3 +1,5 @@
+# https://medium.com/leboncoin-tech-blog/cooling-down-hot-data-from-kafka-to-athena-5918a628bd98
+
 import boto3
 import os
 

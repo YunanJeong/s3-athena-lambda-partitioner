@@ -12,3 +12,9 @@
 ### lambda에 등록할 role에서 필요한 policy들
 
 ### 트리거 설정: S3 rawdata 경로에 신규 Object가 생성됨
+
+
+
+### 참고
+
+https://medium.com/leboncoin-tech-blog/cooling-down-hot-data-from-kafka-to-athena-5918a628bd98
